@@ -1,0 +1,779 @@
+Attack Order,	Attack Order - BUG		15	90	100	The user calls out its underlings to pummel the target. Critical hits land more easily.
+Bug Bite,	Bug Bite - BUG		20	60	100	The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
+Bug Buzz,	Bug Buzz - BUG		10	90	100	The user generates a damaging sound wave by vibration. This may also lower the target's Sp. Def stat.
+Defend Order,	Defend Order - BUG		10	--	101	The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.
+Fell Stinger,	Fell Stinger - BUG		25	50	100	When the user knocks out a target with this move, the user's Attack stat rises drastically.
+First Impression,	First Impression - BUG		10	90	100 	It only works the first turn each time the user enters battle.
+Fury Cutter,	Fury Cutter - BUG		20	40	95	The target is slashed. This attack becomes more powerful if it hits in succession.
+Infestation,	Infestation - BUG		20	20	100	The target is infested and attacked for a few turns. The target can't flee during this time.
+Leech Life,	Leech Life - BUG		10	80	100	The user's HP is restored by half the damage taken by the target.
+Lunge,	Lunge - BUG		15	80	100	The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat.
+Max Flutterby,	Max Flutterby - BUG		10	--	101	This is a Bug-type attack Dynamax Pokémon use. This lowers the target's Sp. Atk stat.
+Megahorn,	Megahorn - BUG		10	120	85	Using its tough and impressive horn, the user rams into the target with no letup.
+Pin Missile,	Pin Missile - BUG		20	25	95	Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.
+Pollen Puff,	Pollen Puff - BUG		15	90	100	The user attacks with an exploding puff. If the target is an ally, it restores its HP instead.
+Powder,	Powder - BUG		20	--	100	The user covers the target in powder. If they use a Fire move, the powder explodes and damages the target.
+Quiver Dance,	Quiver Dance - BUG		20	--	101	The user performs a beautiful dance. This boosts the user's Sp. Atk, Sp. Def, and Speed stats.
+Rage Powder,	Rage Powder - BUG		20	--	101	The user scatters a powder cloud to draw attention. Opposing Pokémon aim only at user.
+Signal Beam,	Signal Beam - BUG
+Skitter Smack,	Skitter Smack - BUG		10	70	90	The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat.
+Sticky Web,	Sticky Web - BUG		20	--	101	The user weaves a net around the opposing team, which lowers their Speed upon switching in.
+String Shot,	String Shot - BUG		40	--	95	Opposing Pokémon are bound with silk blown from the user's mouth that lowers the Speed stat.
+Struggle Bug,	Struggle Bug - BUG		20	50	100	While resisting, the user attacks opposing Pokémon. This lowers the Sp. Atk stats of those hit.
+Tail Glow,	Tail Glow - BUG			20	--	101		The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk
+U-turn,	U-turn - BUG				20	70	100		After making its attack, the user rushes back to switch places with a party Pokémon.
+X-Scissor,	X-Scissor - BUG			15	80	100		The user slashes at the target by crossing its scythes as if they were scissors.
+,
+Assurance,	Assurance - DARK		10	60	100	If the target has already taken some damage in the same turn, this attack's power is doubled.
+Beat Up,	Beat Up - DARK			10	--	100	The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.
+Bite,		Bite - DARK			25	60	100	The target is bitten with viciously sharp fangs. This may also make the target flinch.
+Brutal Swing,	Brutal Swing - DARK		20	60	100	The user swings its body around violently to inflict damage on everything in its vicinity.
+Crunch,	Crunch - DARK				15	80	100	The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.
+Dark Pulse,	Dark Pulse - DARK		15	80	100	The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.
+Dark Void,	Dark Void - DARK		10	--	50	Opposing Pokémon are dragged into a world of total darkness that makes them sleep.
+Darkest Lariat,	Darkest Lariat - DARK		10	85	100	The user swings both arms and hits the target. The target's stat changes don't affect this attack's damage.
+Fake Tears,	Fake Tears - DARK		20	--	100	The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.
+False Surrender,	False Surrender - DARK		10	80	101	The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses.
+Fiery Wrath,	Fiery Wrath - DARK		10	90	100	The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch.
+Flatter,	Flatter - DARK			15	--	100	Flattery is used to confuse the target. However, this also raises the target's Sp. Atk stat.
+Fling,	Fling - DARK		10	--	100		The user flings its held item at the target to attack. This move's power and effects depend on the item.
+Foul Play,	Foul Play - DARK		15	95	100	The user turns the target's power against it. The higher the target's Attack stat, the greater the damage it deals.
+G-Max One Blow,	G-Max One Blow - DARK		10	--	101	A Dark-type attack that Gigantamax Urshifu use. This single-strike move can ignore Max Guard.
+G-Max Snooze,	G-Max Snooze - DARK		10	--	101	A Dark-type attack that Gigantamax Grimmsnarl use. The user lets loose a huge yawn that lulls the targets into falling asleep on the next turn.
+Hone Claws,	Hone Claws - DARK		15	--	101	The user sharpens its claws to boost its Attack stat and accuracy.
+Hyperspace Fury,	Hyperspace Fury - DARK		5	100	101	Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. But the user's Defense stat falls.
+Jaw Lock,	Jaw Lock - DARK			10	80	100	This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pokémon leaves the field.
+Knock Off,	Knock Off - DARK		20	65	100	The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.
+Lash Out,	Lash Out - DARK			5	75	100	The user lashes out to vent its frustration toward the target. If its stats were lowered during the turn, the power of this move is doubled.
+Max Darkness,	Max Darkness - DARK		10	--	101	This is a Dark-type attack Dynamax Pokémon use. This lowers the target's Sp. Def stat.
+Memento,	Memento - DARK			10	--	100	The user faints when using this move. In return, this harshly lowers the target's Attack and Sp. Atk stats.
+Nasty Plot,	Nasty Plot - DARK		20	--	101	The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.
+Night Daze,	Night Daze - DARK		10	85	95	The user lets loose a pitch-black shock wave at its target. This may also lower the target's accuracy.
+Night Slash,	Night Slash - DARK		15	70	100	The user slashes the target the instant an opportunity arises. Critical hits land more easily.
+Obstruct,	Obstruct - DARK			10	--	100	This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Direct contact harshly lowers the attacker's Defense stat.
+Parting Shot,	Parting Shot - DARK		20	--	100	With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches with a party Pokémon.
+Payback,	Payback - DARK			10	50	100	The user stores power, then attacks. If the user moves after the target, this attack's power will be doubled.
+Power Trip,	Power Trip - DARK		10	20	100	The user boasts its strength and attacks the target. The more the user's stats are raised, the greater the move's power.
+Quash,		Quash - DARK			15	--	100	The user suppresses the target and makes its move go last.
+Snarl,		Snarl - DARK			15	55	95	The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon.
+Sucker Punch,	Sucker Punch - DARK		5	70	100	This move enables the user to attack first. This move fails if the target is not readying an attack.
+Switcheroo,	Switcheroo - DARK		10	--	100	The user trades held items with the target faster than the eye can follow.
+Taunt,		Taunt - DARK			20	--	100	The target is taunted into a rage that allows it to use only attack moves for three turns.
+Thief,		Thief - DARK			25	60	100	The user attacks and steals the target's held item simultaneously. The user can't steal anything if it already holds an item.
+Throat Chop,	Throat Chop - DARK		15	80	100	The user attacks the target's throat, and the resultant suffering prevents the target from using moves that emit sound for two turns.
+Topsy-Turvy,	Topsy-Turvy - DARK		20	--	101	All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.
+Torment,	Torment - DARK			15	--	100	The user torments and enrages the target, making it incapable of using the same move twice in a row.
+Wicked Blow,	Wicked Blow - DARK		5	80	100	The user, having mastered the Dark style, strikes the target with a fierce blow. This attack always results in a critical hit.
+,
+Breaking Swipe,		Breaking Swipe - DRAGON			15	60	100	The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats.
+Clanging Scales,	Clanging Scales - DRAGON		5	110	100	The user rubs the scales on its entire body and makes a huge noise to attack opposing Pokémon. The user's Defense stat goes down after the attack.
+Clangorous Soul,	Clangorous Soul - DRAGON		5	--	100	The user raises all its stats by using some of its HP.
+Core Enforcer,		Core Enforcer - DRAGON			10	100	100	If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target's Ability.
+Draco Meteor,		Draco Meteor - DRAGON			5	130	90	Comets are summoned down from the sky onto the target. The attack's recoil harshly lowers the user's Sp. Atk stat.
+Dragon Breath,		Dragon Breath - DRAGON			20	60	100	The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.
+Dragon Claw,		Dragon Claw - DRAGON			15	80	100	The user slashes the target with huge sharp claws.
+Dragon Dance,		Dragon Dance - DRAGON			20	--	101	The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.
+Dragon Darts,		Dragon Darts - DRAGON			10	50	100	The user attacks twice using Dreepy. If there are two targets, this move hits each target once.
+Dragon Energy,		Dragon Energy - DRAGON			5	150	100	Converting its life-force into power, the user attacks opposing Pokémon. The lower the user's HP, the lower the move's power.
+Dragon Hammer,		Dragon Hammer - DRAGON			15	90	100	The user uses its body like a hammer to attack the target and inflict damage.
+Dragon Pulse,		Dragon Pulse - DRAGON			10	85	100	The target is attacked with a shock wave generated by the user's gaping mouth.
+Dragon Rush,		Dragon Rush - DRAGON			10	100	75	The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.
+Dragon Tail,		Dragon Tail - DRAGON			10	60	90	The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+Dual Chop,		Dual Chop - DRAGON			15	40	90	The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row.
+Dynamax Cannon,		Dynamax Cannon - DRAGON			5	100	100	The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed.
+Max Wyrmwind,	Max Wyrmwind - DRAGON		10	--	101	This is a Dragon-type attack Dynamax Pokémon use. This lowers the target's Attack stat.
+Outrage,	Outrage - DRAGON		10	120	100	The user rampages and attacks for two to three turns. The user then becomes confused.
+Roar of Time,	Roar of Time - DRAGON		5	150	90	The user blasts the target with power that distorts even time. The user can't move on the next turn.
+Scale Shot,	Scale Shot - DRAGON		20	25	90	The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat.
+Spacial Rend,	Spacial Rend - DRAGON		5	100	95	The user tears the target along with the space around it. Critical hits land more easily.
+Twister,	Twister - DRAGON		20	40	100	The user whips up a vicious tornado to tear at opposing Pokémon. This may also make them flinch.
+,
+Aura Wheel,	Aura Wheel - ELECTRIC		10	110	100	Morpeko attacks and raises its Speed with the energy stored in its cheeks. This move's type changes depending on the user's form.
+Bolt Beak,	Bolt Beak - ELECTRIC		10	85	100	The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled.
+Bolt Strike,	Bolt Strike - ELECTRIC		5	130	85	The user surrounds itself with a great amount of electricity and charges its target. This may also leave the target with paralysis.
+Charge,	Charge - ELECTRIC		20	--	101	The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat.
+Charge Beam,	Charge Beam - ELECTRIC		10	50	90	The user attacks the target with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.
+Discharge,	Discharge - ELECTRIC		15	80	100	The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.
+Eerie Impulse,	Eerie Impulse - ELECTRIC		15	--	100	The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat.
+Electric Terrain,	Electric Terrain - ELECTRIC		10	--	101	The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.
+Electrify,	Electrify - ELECTRIC		20	--	101	If the target is electrified before it uses a move during that turn, the target's move becomes Electric type.
+Electro Ball,	Electro Ball - ELECTRIC		10	--	100	The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power.
+Electroweb,	Electroweb - ELECTRIC		15	55	95	The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stats.
+Fusion Bolt,	Fusion Bolt - ELECTRIC		5	100	100	The user throws down a giant lightning bolt. This move's power is increased when influenced by an enormous flame.
+Magnet Rise,	Magnet Rise - ELECTRIC		10	--	101	The user levitates using electrically generated magnetism for five turns.
+Magnetic Flux,	Magnetic Flux - ELECTRIC		20	--	101	The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.
+Nuzzle,	Nuzzle - ELECTRIC		20	20	100	The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.
+Overdrive,	Overdrive - ELECTRIC		10	80	100	The user attacks opposing Pokémon by twanging a guitar or bass guitar, causing a huge echo and strong vibration.
+Parabolic Charge,	Parabolic Charge - ELECTRIC		20	65	100	The user attacks everything around it. The user's HP is restored by half the damage taken by those hit.
+Plasma Fists,	Plasma Fists - ELECTRIC		15	100	100	The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.
+Rising Voltage,	Rising Voltage - ELECTRIC		20	70	100	The user attacks with electric voltage rising from the ground. This move's power doubles when the target is on Electric Terrain.
+Shock Wave,	Shock Wave - ELECTRIC		20	60	101	The user strikes the target with a quick jolt of electricity. This attack never misses.
+Spark,		Spark - ELECTRIC		20	65	100	The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.
+Thunder,	Thunder - ELECTRIC		10	110	70	A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.
+Thunder Cage,	Thunder Cage - ELECTRIC		15	80	90	The user traps the target in a cage of sparking electricity for four to five turns.
+Thunder Fang,	Thunder Fang - ELECTRIC		15	65	95	The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.
+Thunder Punch,	Thunder Punch - ELECTRIC		15	75	100	The target is punched with an electrified fist. This may also leave the target with paralysis.
+Thunder Shock,	Thunder Shock - ELECTRIC		30	40	100	A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.
+Thunder Wave,	Thunder Wave - ELECTRIC		20	--	90	The user launches a weak jolt of electricity that paralyzes the target.
+Thunderbolt,	Thunderbolt - ELECTRIC		15	90	100	A strong electric blast crashes down on the target. This may also leave the target with paralysis.
+Volt Switch,	Volt Switch - ELECTRIC		20	70	100	After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+Volt Tackle,	Volt Tackle - ELECTRIC		15	120	100	The user electrifies itself and charges the target. This also damages the user quite a lot. This attack may leave the target with paralysis.
+Wild Charge,	Wild Charge - ELECTRIC		15	90	100	The user shrouds itself in electricity and smashes into its target. This also damages the user a little.
+Zap Cannon,	Zap Cannon - ELECTRIC		5	120	50	The user fires an electric blast like a cannon to inflict damage and cause paralysis.
+Zing Zap,	Zing Zap - ELECTRIC		10	80	100	A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.
+,
+Aromatic Mist,	Aromatic Mist - FAIRY		20	--	101	The user raises the Sp. Def stat of an ally Pokémon by using a mysterious aroma.
+Baby-Doll Eyes,	Baby-Doll Eyes - FAIRY		30	--	100	The user stares at the target with its baby-doll eyes, which lowers the target's Attack stat. This move always goes first.
+Charm,	Charm - FAIRY		20	--	100	The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.
+Crafty Shield,	Crafty Shield - FAIRY		10	--	101	The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage.
+Dazzling Gleam,	Dazzling Gleam - FAIRY		10	80	100	The user damages opposing Pokémon by emitting a powerful flash.
+Decorate,	Decorate - FAIRY		15	--	101	The user sharply raises the target's Attack and Sp. Atk stats by decorating the target.
+Disarming Voice,	Disarming Voice - FAIRY		15	40	101	Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.
+Draining Kiss,	Draining Kiss - FAIRY		10	50	100	The user steals the target's HP with a kiss. The user's HP is restored by over half of the damage taken by the target.
+Fairy Lock,	Fairy Lock - FAIRY		10	--	101	By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn.
+Fairy Wind,	Fairy Wind - FAIRY		30	40	100	The user stirs up a fairy wind and strikes the target with it.
+Fleur Cannon,	Fleur Cannon - FAIRY		5	130	90	The user unleashes a strong beam. The attack's recoil harshly lowers the user's Sp. Atk stat.
+Floral Healing,	Floral Healing - FAIRY		10	--	101	The user restores the target's HP by up to half of its max HP. It restores more HP when the terrain is grass.
+Flower Shield,	Flower Shield - FAIRY		10	--	101	The user raises the Defense stats of all Grass-type Pokémon in battle with a mysterious power.
+Geomancy,	Geomancy - FAIRY		10	--	101	The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.
+Light of Ruin,	Light of Ruin - FAIRY		5	140	90	Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.
+Misty Explosion,Misty Explosion - FAIRY		5	100	100	The user attacks everything around it and faints upon using this move. This move's power is increased on Misty Terrain.
+Misty Terrain,	Misty Terrain - FAIRY		10	--	101	This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.
+Moonblast,	Moonblast - FAIRY		15	95	100	Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat.
+Moonlight,	Moonlight - FAIRY		5	--	101	The user restores its own HP. The amount of HP regained varies with the weather.
+Nature's Madness,Nature's Madness - FAIRY		10	--	90	The user hits the target with the force of nature. It halves the target's HP.
+Play Rough,	Play Rough - FAIRY		10	90	90	The user plays rough with the target and attacks it. This may also lower the target's Attack stat.
+Spirit Break,	Spirit Break - FAIRY		15	75	100	The user attacks the target with so much force that it could break the target's spirit. This also lowers the target's Sp. Atk stat.
+Strange Steam,	Strange Steam - FAIRY		10	90	95	The user attacks the target by emitting steam. This may also confuse the target.
+Sweet Kiss,	Sweet Kiss - FAIRY		10	--	75	The user kisses the target with a sweet, angelic cuteness that causes confusion.
+,
+Arm Thrust,	Arm Thrust - FIGHTING		20	15	100	The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row.
+Aura Sphere,	Aura Sphere - FIGHTING		20	80	101	The user lets loose a blast of aura power from deep within its body at the target. This attack never misses.
+Body Press,	Body Press - FIGHTING		10	80	100	The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it can inflict on the target.
+Brick Break,	Brick Break - FIGHTING		15	75	100	The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.
+Bulk Up,	Bulk Up - FIGHTING		20	--	101	The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.
+Circle Throw,	Circle Throw - FIGHTING		10	60	90	The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+Close Combat,	Close Combat - FIGHTING		5	120	100	The user fights the target up close without guarding itself. This also lowers the user's Defense and Sp. Def stats.
+Coaching,	Coaching - FIGHTING		10	--	--	The user properly coaches its ally Pokémon, boosting their Attack and Defense stats.
+Counter,	Counter - FIGHTING		20	--	100	A retaliation move that counters any physical attack, inflicting double the damage taken.
+Cross Chop,	Cross Chop - FIGHTING		5	100	80	The user delivers a double chop with its forearms crossed. Critical hits land more easily.
+Detect,		Detect - FIGHTING		5	--	101	This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.
+Double Kick,	Double Kick - FIGHTING		30	30	100	The target is quickly kicked twice in succession using both feet.
+Drain Punch,	Drain Punch - FIGHTING		10	75	100	An energy-draining punch. The user's HP is restored by half the damage taken by the target.
+Dynamic Punch,	Dynamic Punch - FIGHTING		5	100	50	The user punches the target with full, concentrated power. This confuses the target if it hits.
+Final Gambit,	Final Gambit - FIGHTING		5	--	100	The user risks everything to attack its target. The user faints but does damage equal to its HP.
+Flying Press,	Flying Press - FIGHTING		10	100	95	The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.
+Focus Blast,	Focus Blast - FIGHTING		5	120	70	The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat.
+Focus Punch,	Focus Punch - FIGHTING		20	150	100	The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.
+Force Palm,	Force Palm - FIGHTING		10	60	100	The target is attacked with a shock wave. This may also leave the target with paralysis.
+G-Max Chi Strike,	G-Max Chi Strike - FIGHTING		10	--	101	A Fighting-type attack that Gigantamax Machamp use. This move raises the chance of critical hits.
+Hammer Arm,	Hammer Arm - FIGHTING		10	100	90	The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.
+High Jump Kick,	High Jump Kick - FIGHTING		10	130	90	The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.
+Low Kick,	Low Kick - FIGHTING		20	--	100	A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power.
+Low Sweep,	Low Sweep - FIGHTING		20	65	100	The user makes a swift attack on the target's legs, which lowers the target's Speed stat.
+Mach Punch,	Mach Punch - FIGHTING		30	40	100	The user throws a punch at blinding speed. This move always goes first.
+Mat Block,	Mat Block - FIGHTING		10	--	101	Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves.
+Max Knuckle,	Max Knuckle - FIGHTING		10	--	101	This is a Fighting-type attack Dynamax Pokémon use. This raises ally Pokémon's Attack stats.
+Meteor Assault,	Meteor Assault - FIGHTING		5	150	100	The user attacks wildly with its thick leek. The user can't move on the next turn, because the force of this move makes it stagger.
+No Retreat,	No Retreat - FIGHTING		5	--	101	This move raises all the user's stats but prevents the user from switching out or fleeing.
+Octolock,	Octolock - FIGHTING		15	--	100	The user locks the target in and prevents it from fleeing. This move also lowers the target's Defense and Sp. Def every turn.
+Power-Up Punch,	Power-Up Punch - FIGHTING		20	40	100	Striking opponents over and over makes the user's fists harder. Hitting a target raises the Attack stat.
+Quick Guard,	Quick Guard - FIGHTING		15	--	101	The user protects itself and its allies from priority moves.
+Revenge,	Revenge - FIGHTING		10	60	100	This attack move's power is doubled if the user has been hurt by the opponent in the same turn.
+Reversal,	Reversal - FIGHTING		15	--	100	An all-out attack that becomes more powerful the less HP the user has.
+Rock Smash,	Rock Smash - FIGHTING		15	40	100	The user attacks with a punch. This may also lower the target's Defense stat.
+Sacred Sword,	Sacred Sword - FIGHTING		15	90	100	The user attacks by slicing with a long horn. The target's stat changes don't affect this attack's damage.
+Secret Sword,	Secret Sword - FIGHTING		10	85	100	The user cuts with its long horn. The odd power contained in the horn does physical damage to the target.
+Seismic Toss,	Seismic Toss - FIGHTING		20	--	100	The target is thrown using the power of gravity. It inflicts damage equal to the user's level.
+Storm Throw,	Storm Throw - FIGHTING		10	60	100	The user strikes the target with a fierce blow. This attack always results in a critical hit.
+Submission,	Submission - FIGHTING		20	80	80	The user grabs the target and recklessly dives for the ground. This also damages the user a little.
+Superpower,	Superpower - FIGHTING		5	120	100	The user attacks the target with great power. However, this also lowers the user's Attack and Defense stats.
+Thunderous Kick,	Thunderous Kick - FIGHTING		10	90	100	The user overwhelms the target with lightning-like movement before delivering a kick. This also lowers the target's Defense stat.
+Triple Kick,	Triple Kick - FIGHTING		10	10	90	A consecutive three-kick attack that becomes more powerful with each successful hit.
+Vacuum Wave,	Vacuum Wave - FIGHTING		30	40	100	The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
+Vital Throw,	Vital Throw - FIGHTING		10	70	101	The user attacks last. In return, this throw move never misses.
+,
+Blast Burn,	Blast Burn - FIRE		5	150	90	The target is razed by a fiery explosion. The user can't move on the next turn.
+Blaze Kick,	Blaze Kick - FIRE		10	85	90	The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn.
+Blue Flare,	Blue Flare - FIRE		5	130	85	The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn.
+Burn Up,	Burn Up - FIRE		5	130	100	To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.
+Burning Jealousy,	Burning Jealousy - FIRE		5	70	100	The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn.
+Ember,	Ember - FIRE		25	40	100	The target is attacked with small flames. This may also leave the target with a burn.
+Eruption,	Eruption - FIRE		5	150	100	The user attacks opposing Pokémon with explosive fury. The lower the user's HP, the lower the move's power.
+Fiery Dance,	Fiery Dance - FIRE		10	80	100	Cloaked in flames, the user attacks the target by dancing and flapping its wings. This may also raise the user's Sp. Atk stat.
+Fire Blast,	Fire Blast - FIRE		5	110	85	The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.
+Fire Fang,	Fire Fang - FIRE		15	65	95	The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.
+Fire Lash,	Fire Lash - FIRE		15	80	100	The user strikes the target with a burning lash. This also lowers the target's Defense stat.
+Fire Pledge,	Fire Pledge - FIRE		10	80	100	A column of fire hits the target. When used with its grass equivalent, its power increases and a vast sea of fire appears.
+Fire Punch,	Fire Punch - FIRE		15	75	100	The target is punched with a fiery fist. This may also leave the target with a burn.
+Fire Spin,	Fire Spin - FIRE		15	35	85	The target becomes trapped within a fierce vortex of fire that rages for four to five turns.
+Flame Burst, 
+Flame Charge,	Flame Charge - FIRE		20	50	100	Cloaking itself in flame, the user attacks the target. Then, building up more power, the user raises its Speed stat.
+Flame Wheel,	Flame Wheel - FIRE		25	60	100	The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.
+Flamethrower,	Flamethrower - FIRE		15	90	100	The target is scorched with an intense blast of fire. This may also leave the target with a burn.
+Flare Blitz,	Flare Blitz - FIRE		15	120	100	The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.
+Fusion Flare,	Fusion Flare - FIRE		5	100	100	The user brings down a giant flame. This move's power is increased when influenced by an enormous lightning bolt.
+Heat Crash,	Heat Crash - FIRE		10	--	100	The user slams its target with its flame-covered body. The more the user outweighs the target, the greater the move's power.
+Heat Wave,	Heat Wave - FIRE		10	95	90	The user attacks by exhaling hot breath on opposing Pokémon. This may also leave those Pokémon with a burn.
+Incinerate,	Incinerate - FIRE		15	60	100	The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.
+Inferno,	Inferno - FIRE		5	100	50	The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.
+Lava Plume,	Lava Plume - FIRE		15	80	100	The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.
+Magma Storm,	Magma Storm - FIRE		5	100	75	The target becomes trapped within a maelstrom of fire that rages for four to five turns.
+Mind Blown,	Mind Blown - FIRE		5	150	100	The user attacks everything around it by causing its own head to explode. This also damages the user.
+Mystical Fire,	Mystical Fire - FIRE		10	75	100	The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.
+Overheat,	Overheat - FIRE			5	130	90	The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat.
+Pyro Ball,	Pyro Ball - FIRE		5	120	90	The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn.
+Sacred Fire,	Sacred Fire - FIRE		5	100	95	The target is razed with a mystical fire of great intensity. This may also leave the target with a burn.
+Searing Shot,	Searing Shot - FIRE		5	100	100	The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.
+Shell Trap,	Shell Trap - FIRE		5	150	100	The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on opposing Pokémon.
+Sunny Day,	Sunny Day - FIRE		5	--	101	The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.
+V-create,	V-create - FIRE		5	180	95	With a hot flame on its forehead, the user hurls itself at its target. This lowers the user's Defense, Sp. Def, and Speed stats.
+Will-O-Wisp,	Will-O-Wisp - FIRE		15	--	85	The user shoots a sinister flame at the target to inflict a burn.
+,
+Acrobatics,	Acrobatics - FLYING		15	55	100	The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.
+Aerial Ace,	Aerial Ace - FLYING		20	60	101	The user confounds the target with speed, then slashes. This attack never misses.
+Aeroblast,	Aeroblast - FLYING		5	100	95	A vortex of air is shot at the target to inflict damage. Critical hits land more easily.
+Air Cutter,	Air Cutter - FLYING		25	60	95	The user launches razor-like wind to slash opposing Pokémon. Critical hits land more easily.
+Air Slash,	Air Slash - FLYING		15	75	95	The user attacks with a blade of air that slices even the sky. This may also make the target flinch.
+Beak Blast,	Beak Blast - FLYING		15	100	100	The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it's heating up its beak results in a burn.
+Bounce,	Bounce - FLYING		5	85	85	The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.
+Brave Bird,	Brave Bird - FLYING		15	120	100	The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.
+Chatter,	Chatter - FLYING		20	65	100	The user attacks the target with sound waves of deafening chatter. This confuses the target.
+Defog,	Defog - FLYING		15	--	101	A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness.
+Dragon Ascent,	Dragon Ascent - FLYING		5	120	100	After soaring upward, the user attacks its target by dropping out of the sky at high speeds. But it lowers its own Defense and Sp. Def stats in the process.
+Drill Peck,	Drill Peck - FLYING		20	80	100	A corkscrewing attack that strikes the target with a sharp beak acting as a drill.
+Dual Wingbeat,	Dual Wingbeat - FLYING		10	40	90	The user slams the target with its wings. The target is hit twice in a row.
+Feather Dance,	Feather Dance - FLYING		15	--	100	The user covers the target's body with a mass of down that harshly lowers its Attack stat.
+Fly,	Fly - FLYING		15	90	95	The user flies up into the sky and then strikes its target on the next turn.
+Gust,	Gust - FLYING		35	40	100	A gust of wind is whipped up by wings and launched at the target to inflict damage.
+Hurricane,	Hurricane - FLYING		10	110	70	The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.
+Max Airstream,	Max Airstream - FLYING		10	--	101	This is a Flying-type attack Dynamax Pokémon use. This raises ally Pokémon's Speed stats.
+Oblivion Wing,	Oblivion Wing - FLYING		10	80	100	The user absorbs its target's HP. The user's HP is restored by over half of the damage taken by the target.
+Peck,	Peck - FLYING		35	35	100	The target is jabbed with a sharply pointed beak or horn.
+Pluck,	Pluck - FLYING		20	60	100	The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.
+Roost,	Roost - FLYING		10	--	101	The user lands and rests its body. This move restores the user's HP by up to half of its max HP.
+Sky Attack,	Sky Attack - FLYING		5	140	90	A second-turn attack move where critical hits land more easily. This may also make the target flinch.
+Tailwind,	Tailwind - FLYING		15	--	101	The user whips up a turbulent whirlwind that ups the Speed stats of the user and its allies for four turns.
+Wing Attack,	Wing Attack - FLYING		35	60	100	The target is struck with large, imposing wings spread wide to inflict damage.
+,
+Astonish,	Astonish - GHOST		15	30	100	The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
+Astral Barrage,	Astral Barrage - GHOST		5	120	100	The user attacks by sending a frightful amount of small ghosts at opposing Pokémon.
+Confuse Ray,	Confuse Ray - GHOST		10	--	100	The target is exposed to a sinister ray that triggers confusion.
+Curse,	Curse - GHOST		10	--	101	A move that works differently for the Ghost type than for all other types.
+Destiny Bond,	Destiny Bond - GHOST		5	--	101	After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.
+Grudge,	Grudge - GHOST		5	--	101	If the user faints, the user's grudge fully depletes the PP of the opponent's move that knocked it out.
+Hex,	Hex - GHOST		10	65	100	This relentless attack does massive damage to a target affected by status conditions.
+Lick,	Lick - GHOST		30	30	100	The target is licked with a long tongue, causing damage. This may also leave the target with paralysis.
+Moongeist Beam,	Moongeist Beam - GHOST		5	100	100	The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Abilities.
+Night Shade,	Night Shade - GHOST		15	--	100	The user makes the target see a frightening mirage. It inflicts damage equal to the user's level.
+Phantom Force,	Phantom Force - GHOST		10	90	100	The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.
+Poltergeist,	Poltergeist - GHOST		5	110	90	The user attacks the target by controlling the target's item. The move fails if the target doesn't have an item.
+Shadow Ball,	Shadow Ball - GHOST		15	80	100	The user hurls a shadowy blob at the target. This may also lower the target's Sp. Def stat.
+Shadow Bone,	Shadow Bone - GHOST		10	85	100	The user attacks by beating the target with a bone that contains a spirit. This may also lower the target's Defense stat.
+Shadow Claw,	Shadow Claw - GHOST		15	70	100	The user slashes with a sharp claw made from shadows. Critical hits land more easily.
+Shadow Force,	Shadow Force - GHOST		5	120	100	The user disappears, then strikes the target on the next turn. This move hits even if the target protects itself.
+Shadow Punch,	Shadow Punch - GHOST		20	60	101	The user throws a punch from the shadows. This attack never misses.
+Shadow Sneak,	Shadow Sneak - GHOST		30	40	100	The user extends its shadow and attacks the target from behind. This move always goes first.
+Spectral Thief,	Spectral Thief - GHOST		10	90	100	The user hides in the target's shadow, steals the target's stat boosts, and then attacks.
+Spirit Shackle,	Spirit Shackle - GHOST		10	80	100	The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from escaping.
+Spite,	Spite - GHOST		10	--	100	The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
+Trick-or-Treat,	Trick-or-Treat - GHOST		20	--	100	The user takes the target trick-or-treating. This adds Ghost type to the target's type.
+,
+Absorb,	Absorb - GRASS		25	20	100	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+Apple Acid,	Apple Acid - GRASS		10	80	100	The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat.
+Aromatherapy,	Aromatherapy - GRASS		5	--	101	The user releases a soothing scent that heals all status conditions affecting the user's party.
+Branch Poke,	Branch Poke - GRASS		40	40	100	The user attacks the target by poking it with a sharply pointed branch.
+Bullet Seed,	Bullet Seed - GRASS		30	25	100	The user forcefully shoots seeds at the target two to five times in a row.
+Cotton Guard,	Cotton Guard - GRASS		10	--	101	The user protects itself by wrapping its body in soft cotton, which drastically raises the user's Defense stat.
+Cotton Spore,	Cotton Spore - GRASS		40	--	100	The user releases cotton-like spores that cling to opposing Pokémon, which harshly lowers their Speed stats.
+Drum Beating,	Drum Beating - GRASS		10	80	100	The user plays its drum, controlling the drum's roots to attack the target. This also lowers the target's Speed stat.
+Energy Ball,	Energy Ball - GRASS		10	90	100	The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat.
+Forest's Curse,	Forest's Curse - GRASS		20	--	100	The user puts a forest curse on the target. The target is now Grass type as well.
+Frenzy Plant,	Frenzy Plant - GRASS		5	150	90	The user slams the target with the roots of an enormous tree. The user can't move on the next turn.
+Giga Drain,	Giga Drain - GRASS		10	75	100	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+Grass Knot,	Grass Knot - GRASS		20	--	100	The user snares the target with grass and trips it. The heavier the target, the greater the move's power.
+Grass Pledge,	Grass Pledge - GRASS		10	80	100	A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears.
+Grassy Glide,	Grassy Glide - GRASS		20	70	100	Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.
+Grassy Terrain,	Grassy Terrain - GRASS		10	--	101	The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves.
+Grav Apple,	Grav Apple - GRASS		10	80	100	The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense stat.
+Horn Leech,	Horn Leech - GRASS		10	75	100	The user drains the target's energy with its horns. The user's HP is restored by half the damage taken by the target.
+Ingrain,	Ingrain - GRASS		20	--	101	The user lays roots that restore its HP on every turn. Because it's rooted, it can't switch out.
+Jungle Healing,	Jungle Healing - GRASS		10	--	101	The user becomes one with the jungle, restoring HP and healing any status conditions of itself and its ally Pokémon in battle.
+Leaf Blade,	Leaf Blade - GRASS		15	90	100	The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.
+Leaf Storm,	Leaf Storm - GRASS		5	130	90	The user whips up a storm of leaves around the target. The attack's recoil harshly lowers the user's Sp. Atk stat.
+Leaf Tornado,	Leaf Tornado - GRASS		10	65	90	The user attacks its target by encircling it in sharp leaves. This attack may also lower the target's accuracy.
+Leafage,	Leafage - GRASS		40	40	100	The user attacks by pelting the target with leaves.
+Leech Seed,	Leech Seed - GRASS		10	--	90	A seed is planted on the target. It steals some HP from the target every turn.
+Magical Leaf,	Magical Leaf - GRASS		20	60	101	The user scatters curious leaves that chase the target. This attack never misses.
+Max Overgrowth,	Max Overgrowth - GRASS		10	--	101	This is a Grass-type attack Dynamax Pokémon use. The user turns the ground into Grassy Terrain for five turns.
+Mega Drain,	Mega Drain - GRASS		15	40	100	A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.
+Petal Blizzard,	Petal Blizzard - GRASS		15	90	100	The user stirs up a violent petal blizzard and attacks everything around it.
+Petal Dance,	Petal Dance - GRASS		10	120	100	The user attacks the target by scattering petals for two to three turns. The user then becomes confused.
+Power Whip,	Power Whip - GRASS		10	120	85	The user violently whirls its vines, tentacles, or the like to harshly lash the target.
+Razor Leaf,	Razor Leaf - GRASS		25	55	95	Sharp-edged leaves are launched to slash at opposing Pokémon. Critical hits land more easily.
+Seed Bomb,	Seed Bomb - GRASS		15	80	100	The user slams a barrage of hard-shelled seeds down on the target from above.
+Seed Flare,	Seed Flare - GRASS		5	120	85	The user emits a shock wave from its body to attack its target. This may also harshly lower the target's Sp. Def stat.
+Sleep Powder,	Sleep Powder - GRASS		15	--	75	The user scatters a big cloud of sleep-inducing dust around the target.
+Snap Trap,	Snap Trap - GRASS		15	35	100	The user snares the target in a snap trap for four to five turns.
+Solar Beam,	Solar Beam - GRASS		10	120	100	In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.
+Solar Blade,	Solar Blade - GRASS		10	125	100	In this two-turn attack, the user gathers light and fills a blade with the light's energy, attacking the target on the next turn.
+Spiky Shield,	Spiky Shield - GRASS		10	--	101	In addition to protecting the user from attacks, this move also damages any attacker that makes direct contact.
+Spore,	Spore - GRASS		15	--	100	The user scatters bursts of spores that induce sleep.
+Strength Sap,	Strength Sap - GRASS		10	--	100	The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.
+Stun Spore,	Stun Spore - GRASS		30	--	75	The user scatters a cloud of numbing powder that paralyzes the target.
+Synthesis,	Synthesis - GRASS		5	--	101	The user restores its own HP. The amount of HP regained varies with the weather.
+Trop Kick,	Trop Kick - GRASS		15	70	100	The user lands an intense kick of tropical origins on the target. This also lowers the target's Attack stat.
+Vine Whip,	Vine Whip - GRASS		25	45	100	The target is struck with slender, whiplike vines to inflict damage.
+Wood Hammer,	Wood Hammer - GRASS		15	120	100	The user slams its rugged body into the target to attack. This also damages the user quite a lot.
+Worry Seed,	Worry Seed - GRASS		10	--	100	A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.
+,
+Bone Rush,	Bone Rush - GROUND		10	25	90	The user strikes the target with a hard bone two to five times in a row.
+Bonemerang,	Bonemerang - GROUND		10	50	90	The user throws the bone it holds. The bone loops around to hit the target twice—coming and going.
+Bulldoze,	Bulldoze - GROUND		20	60	100	The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit.
+Dig,	Dig - GROUND		10	80	100	The user burrows into the ground, then attacks on the next turn.
+Drill Run,	Drill Run - GROUND		10	80	95	The user crashes into its target while rotating its body like a drill. Critical hits land more easily.
+Earth Power,	Earth Power - GROUND		10	90	100	The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def stat.
+Earthquake,	Earthquake - GROUND		10	100	100	The user sets off an earthquake that strikes every Pokémon around it.
+Fissure,	Fissure - GROUND		5	--	30	The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.
+High Horsepower,	High Horsepower - GROUND		10	95	95	The user fiercely attacks the target using its entire body.
+Land's Wrath,	Land's Wrath - GROUND		10	90	100	The user gathers the energy of the land and focuses that power on opposing Pokémon to damage them.
+Max Quake,	Max Quake - GROUND		10	--	101	This is a Ground-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Def stats.
+Mud Slap,       Mud Slap - GROUND
+Mud Bomb,	Mud Bomb - GROUND
+Mud Shot,	Mud Shot - GROUND		15	55	95	The user attacks by hurling a blob of mud at the target. This also lowers the target's Speed stat.
+Mud-Slap,	Mud-Slap - GROUND		10	20	100	The user hurls mud in the target's face to inflict damage and lower its accuracy.
+Precipice Blades,	Precipice Blades - GROUND		10	120	85	The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone.
+Sand Attack,	Sand Attack - GROUND		15	--	100	Sand is hurled in the target's face, reducing the target's accuracy.
+Sand Tomb,	Sand Tomb - GROUND		15	35	85	The user traps the target inside a harshly raging sandstorm for four to five turns.
+Scorching Sands,	Scorching Sands - GROUND		10	70	100	The user throws scorching sand at the target to attack. This may also leave the target with a burn.
+Shore Up,	Shore Up - GROUND		10	--	101	The user regains up to half of its max HP. It restores more HP in a sandstorm.
+Spikes,	Spikes - GROUND		20	--	101	The user lays a trap of spikes at the opposing team's feet. The trap hurts Pokémon that switch into battle.
+Stomping Tantrum,	Stomping Tantrum - GROUND		10	75	100	Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles.
+Thousand Arrows,	Thousand Arrows - GROUND		10	90	100	This move also hits opposing Pokémon that are in the air. Those Pokémon are knocked down to the ground.
+Thousand Waves,	Thousand Waves - GROUND		10	90	100	The user attacks with a wave that crawls along the ground. Those it hits can't flee from battle.
+,
+Aurora Beam,	Aurora Beam - ICE		20	65	100	The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat.
+Aurora Veil,	Aurora Veil - ICE		20	--	101	This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.
+Avalanche,	Avalanche - ICE		10	60	100	The power of this attack move is doubled if the user has been hurt by the target in the same turn.
+Blizzard,	Blizzard - ICE		5	110	70	A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.
+Frost Breath,   Frost Breath - ICE              
+Freeze Shock,	Freeze Shock - ICE		5	140	90	On the second turn, the user hits the target with electrically charged ice. This may also leave the target with paralysis.
+Freeze-Dry,	Freeze-Dry - ICE		20	70	100	The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.
+Glacial Lance,	Glacial Lance - ICE		5	130	100	The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
+Glaciate,	Glaciate - ICE		10	65	95	The user attacks by blowing freezing cold air at opposing Pokémon. This lowers their Speed stats.
+Hail,	Hail - ICE		10	--	101	The user summons a hailstorm lasting five turns. It damages all Pokémon except Ice types.
+Haze,	Haze - ICE		30	--	101	The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
+Ice Beam,	Ice Beam - ICE		10	90	100	The target is struck with an icy-cold beam of energy. This may also leave the target frozen.
+Ice Burn,	Ice Burn - ICE		5	140	90	On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn.
+Ice Fang,	Ice Fang - ICE		15	65	95	The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.
+Ice Hammer,	Ice Hammer - ICE		10	100	90	The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.
+Ice Punch,	Ice Punch - ICE		15	75	100	The target is punched with an icy fist. This may also leave the target frozen.
+Ice Shard,	Ice Shard - ICE		30	40	100	The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.
+Icicle Crash,	Icicle Crash - ICE		10	85	90	The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch.
+Icicle Spear,	Icicle Spear - ICE		30	25	100	The user launches sharp icicles at the target two to five times in a row.
+Icy Wind,	Icy Wind - ICE		15	55	95	The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats.
+Max Hailstorm,	Max Hailstorm - ICE		10	--	101	This is an Ice-type attack Dynamax Pokémon use. The user summons a hailstorm lasting five turns.
+Mist,	Mist - ICE		30	--	101	The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
+Powder Snow,	Powder Snow - ICE		25	40	100	The user attacks with a chilling gust of powdery snow. This may also freeze opposing Pokémon.
+Sheer Cold,	Sheer Cold - ICE		5	--	30	The target faints instantly. It's less likely to hit the target if it's used by Pokémon other than Ice types.
+Triple Axel,	Triple Axel - ICE		10	20	90	A consecutive three-kick attack that becomes more powerful with each successful hit.
+,
+Acupressure,	Acupressure - NORMAL		30	--	101	The user applies pressure to stress points, sharply boosting one of its or its allies' stats.
+After You,	After You - NORMAL		15	--	101	The user helps the target and makes it use its move right after the user.
+Assist,	Assist - NORMAL		20	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Attract,	Attract - NORMAL		15	--	100	If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.
+Barrage	Barrage - NORMAL		20	15	85	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Baton Pass,	Baton Pass - NORMAL		40	--	101	The user switches places with a party Pokémon in waiting and passes along any stat changes.
+Belly Drum,	Belly Drum - NORMAL		10	--	101	The user maximizes its Attack stat in exchange for HP equal to half its max HP.
+Bestow,	Bestow - NORMAL		15	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Bide,	Bide - NORMAL		10	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Bind,	Bind - NORMAL		20	15	85	Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns.
+Block,	Block - NORMAL		5	--	101	The user blocks the target's way with arms spread wide to prevent escape.
+Body Slam,	Body Slam - NORMAL		15	85	100	The user drops onto the target with its full body weight. This may also leave the target with paralysis.
+Boomburst,	Boomburst - NORMAL		10	140	100	The user attacks everything around it with the destructive power of a terrible, explosive sound.
+Breakneck Blitz,	Breakneck Blitz - NORMAL		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Breakneck Blitz,	Breakneck Blitz - NORMAL		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Camouflage,	Camouflage - NORMAL		20	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Captivate,	Captivate - NORMAL		20	--	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Celebrate,	Celebrate - NORMAL		40	--	101	The Pokémon congratulates you on your special day!
+Chip Away,	Chip Away - NORMAL		20	70	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Comet Punch,	Comet Punch - NORMAL		15	18	85	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Confide,	Confide - NORMAL		20	--	101	The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat.
+Constrict,	Constrict - NORMAL		35	10	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Conversion,	Conversion - NORMAL		30	--	101	The user changes its type to become the same type as the move at the top of the list of moves it knows.
+Conversion 2,	Conversion 2 - NORMAL		30	--	101	The user changes its type to make itself resistant to the type of the attack the target used last.
+Copycat,	Copycat - NORMAL		20	--	101	The user mimics the move used immediately before it. The move fails if no other move has been used yet.
+Court Change,	Court Change - NORMAL		10	--	100	With its mysterious power, the user swaps the effects on either side of the field.
+Covet,		Covet - NORMAL		25	60	100	The user endearingly approaches the target, then steals the target's held item.
+Crush Claw,	Crush Claw - NORMAL		10	75	95	The user slashes the target with hard and sharp claws. This may also lower the target's Defense stat.
+Crush Grip,	Crush Grip - NORMAL		5	--	100	The target is crushed with great force. The more HP the target has left, the greater this move's power.
+Cut,		Cut - NORMAL		30	50	95	The target is cut with a scythe or claw.
+Defense Curl,	Defense Curl - NORMAL		40	--	101	The user curls up to conceal weak spots and raise its Defense stat.
+Disable,	Disable - NORMAL		20	--	100	For four turns, this move prevents the target from using the move it last used.
+Dizzy Punch,	Dizzy Punch - NORMAL		10	70	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Double Hit,	Double Hit - NORMAL		10	35	90	The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.
+Double Slap,	Double Slap - NORMAL		10	15	85	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Double Team,	Double Team - NORMAL		15	--	101	By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.
+Double-Edge,	Double-Edge - NORMAL		15	120	100	A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.
+Echoed Voice,	Echoed Voice - NORMAL		15	40	100	The user attacks the target with an echoing voice. If this move is used every turn, its power is increased.
+Egg Bomb,	Egg Bomb - NORMAL		10	100	75	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Encore,		Encore - NORMAL		5	--	100	The user compels the target to keep using the move it encored for three turns.
+Endeavor,	Endeavor - NORMAL		5	--	100	This attack move cuts down the target's HP to equal the user's HP.
+Endure,		Endure - NORMAL		10	--	101	The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.
+Entrainment,	Entrainment - NORMAL		15	--	100	The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's.
+Explosion,	Explosion - NORMAL		5	250	100	The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.
+Extreme Evoboost,	Extreme Evoboost - NORMAL		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Extreme Speed,	Extreme Speed - NORMAL		5	80	100	The user charges the target at blinding speed. This move always goes first.
+Facade,		Facade - NORMAL		20	70	100	This attack move doubles its power if the user is poisoned, burned, or paralyzed.
+Fake Out,	Fake Out - NORMAL		10	40	100	This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
+False Swipe,	False Swipe - NORMAL		40	40	100	A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.
+Feint,		Feint - NORMAL		10	30	100	This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
+Flail,		Flail - NORMAL		15	--	100	The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.
+Flash,		Flash - NORMAL		20	--	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Focus Energy,	Focus Energy - NORMAL		30	--	101	The user takes a deep breath and focuses so that critical hits land more easily.
+Follow Me,	Follow Me - NORMAL		20	--	101	The user draws attention to itself, making all targets take aim only at the user.
+Foresight,	Foresight - NORMAL		40	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Frustration,	Frustration - NORMAL		20	--	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Fury Attack,	Fury Attack - NORMAL		20	15	85	The target is jabbed repeatedly with a horn or beak two to five times in a row.
+Fury Swipes,	Fury Swipes - NORMAL		15	18	80	The target is raked with sharp claws or scythes quickly two to five times in a row.
+Giga Impact,	Giga Impact - NORMAL		5	150	90	The user charges at the target using every bit of its power. The user can't move on the next turn.
+Glare,		Glare - NORMAL		30	--	100	The user intimidates the target with the pattern on its belly to cause paralysis.
+Growl,		Growl - NORMAL		40	--	100	The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.
+Growth,		Growth - NORMAL		20	--	101	The user's body grows all at once, raising the Attack and Sp. Atk stats.
+Guillotine,	Guillotine - NORMAL		5	--	30	A vicious, tearing attack with big pincers. The target faints instantly if this attack hits.
+Happy Hour,	Happy Hour - NORMAL		30	--	101	Using Happy Hour doubles the amount of prize money received after battle.
+Harden,		Harden - NORMAL		30	--	101	The user stiffens all the muscles in its body to raise its Defense stat.
+Head Charge,	Head Charge - NORMAL		15	120	100	The user charges its head into its target, using its powerful guard hair. This also damages the user a little.
+Headbutt,	Headbutt - NORMAL		15	70	100	The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.
+Heal Bell,	Heal Bell - NORMAL		5	--	101	The user makes a soothing bell chime to heal the status conditions of all the party Pokémon.
+Helping Hand,	Helping Hand - NORMAL		20	--	101	The user assists an ally by boosting the power of that ally's attack.
+Hidden Power,	Hidden Power - NORMAL		15	60	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Hold Back,	Hold Back - NORMAL		40	40	100	The user holds back when it attacks, and the target is left with at least 1 HP.
+Hold Hands,	Hold Hands - NORMAL		40	--	101	The user and an ally hold hands. This makes them very happy.
+Horn Attack,	Horn Attack - NORMAL		25	65	100	The target is jabbed with a sharply pointed horn to inflict damage.
+Horn Drill,	Horn Drill - NORMAL		5	--	30	The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.
+Howl,	Howl - NORMAL		40	--	101	The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats.
+Hyper Beam,	Hyper Beam - NORMAL		5	150	90	The target is attacked with a powerful beam. The user can't move on the next turn.
+Hyper Fang,	Hyper Fang - NORMAL		15	80	90	The user bites hard on the target with its sharp front fangs. This may also make the target flinch.
+Hyper Voice,	Hyper Voice - NORMAL		10	90	100	The user lets loose a horribly echoing shout with the power to inflict damage.
+Judgment,	Judgment - NORMAL		10	100	100	The user releases countless shots of light at the target. This move's type varies depending on the kind of Plate the user is holding.
+Laser Focus,	Laser Focus - NORMAL		30	--	101	The user concentrates intensely. The attack on the next turn always results in a critical hit.
+Last Resort,	Last Resort - NORMAL		5	140	100	This move can be used only after the user has used all the other moves it knows in the battle.
+Leer,	Leer - NORMAL		30	--	100	The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.
+Lock-On,	Lock-On - NORMAL		5	--	101	The user takes sure aim at the target. This ensures the next attack does not miss the target.
+Lovely Kiss,	Lovely Kiss - NORMAL		10	--	75	With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep.
+Lucky Chant,	Lucky Chant - NORMAL		30	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Max Guard,	Max Guard - NORMAL		10	--	101	This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.
+Max Strike,	Max Strike - NORMAL		10	--	101	This is a Normal-type attack Dynamax Pokémon use. This lowers the target's Speed stat.
+Me First,	Me First - NORMAL		20	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Mean Look,	Mean Look - NORMAL		5	--	101	The user pins the target with a dark, arresting look. The target becomes unable to flee.
+Mega Kick,	Mega Kick - NORMAL		5	120	75	The target is attacked by a kick launched with muscle-packed power.
+Mega Punch,	Mega Punch - NORMAL		20	80	85	The target is slugged by a punch thrown with muscle-packed power.
+Metronome,	Metronome - NORMAL		10	--	101	The user waggles a finger and stimulates its brain into randomly using nearly any move.
+Milk Drink,	Milk Drink - NORMAL		10	--	101	The user restores its own HP by up to half of its max HP.
+Mimic,	Mimic - NORMAL		10	--	101	The user copies the target's last move. The move can be used during battle until the Pokémon is switched out.
+Mind Reader,	Mind Reader - NORMAL		5	--	101	The user senses the target's movements with its mind to ensure its next attack does not miss the target.
+Minimize,	Minimize - NORMAL		10	--	101	The user compresses its body to make itself look smaller, which sharply raises its evasiveness.
+Morning Sun,	Morning Sun - NORMAL		5	--	101	The user restores its own HP. The amount of HP regained varies with the weather.
+Multi-Attack,	Multi-Attack - NORMAL		10	120	100	Cloaking itself in high energy, the user slams into the target. The memory held determines the move's type.
+Natural Gift,	Natural Gift - NORMAL		15	--	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Nature Power,	Nature Power - NORMAL		20	--	101	This attack makes use of nature's power. Its effects vary depending on the user's environment.
+Noble Roar,	Noble Roar - NORMAL		30	--	100	Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats.
+Odor Sleuth,	Odor Sleuth - NORMAL		40	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Pain Split,	Pain Split - NORMAL		20	--	101	The user adds its HP to the target's HP, then equally shares the combined HP with the target.
+Pay Day,	Pay Day - NORMAL		20	40	100	Numerous coins are hurled at the target to inflict damage. Money is earned after the battle.
+Perish Song,	Perish Song - NORMAL		5	--	101	Any Pokémon that hears this song faints in three turns, unless it switches out of battle.
+Play Nice,	Play Nice - NORMAL		20	--	101	The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat.
+Pound,	Pound - NORMAL		35	40	100	The target is physically pounded with a long tail, a foreleg, or the like.
+Present,	Present - NORMAL		15	--	90	The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.
+Protect,	Protect - NORMAL		10	--	101	This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.
+Psych Up,	Psych Up - NORMAL		10	--	101	The user hypnotizes itself into copying any stat change made by the target.
+Pulverizing Pancake,	Pulverizing Pancake - NORMAL		1	210	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Quick Attack,	Quick Attack - NORMAL		30	40	100	The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+Rage,	Rage - NORMAL		20	20	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Rapid Spin,	Rapid Spin - NORMAL		40	50	100	A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user's Speed stat.
+Razor Wind,	Razor Wind - NORMAL		10	80	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Recover,	Recover - NORMAL		10	--	101	Restoring its own cells, the user restores its own HP by half of its max HP.
+Recycle,	Recycle - NORMAL		10	--	101	The user recycles a held item that has been used in battle so it can be used again.
+Reflect Type,	Reflect Type - NORMAL		15	--	101	The user reflects the target's type, making the user the same type as the target.
+Refresh,	Refresh - NORMAL		20	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Relic Song,	Relic Song - NORMAL		10	75	100	The user sings an ancient song and attacks by appealing to the hearts of the listening opposing Pokémon. This may also induce sleep.
+Retaliate,	Retaliate - NORMAL		5	70	100	The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move's power is increased.
+Return,	Return - NORMAL		20	--	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Revelation Dance,	Revelation Dance - NORMAL		15	90	100	The user attacks the target by dancing very hard. The user's type determines the type of this move.
+Roar,	Roar - NORMAL		20	--	101	The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+Rock Climb,	Rock Climb - NORMAL		20	90	85	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Round,	Round - NORMAL		15	60	100	The user attacks the target with a song. Others can join in the Round to increase the power of the attack.
+Safeguard,	Safeguard - NORMAL		25	--	101	The user creates a protective field that prevents status conditions for five turns.
+Scary Face,	Scary Face - NORMAL		10	--	100	The user frightens the target with a scary face to harshly lower its Speed stat.
+Scratch,	Scratch - NORMAL		35	40	100	Hard, pointed, sharp claws rake the target to inflict damage.
+Screech,	Screech - NORMAL		40	--	85	An earsplitting screech harshly lowers the target's Defense stat.
+Secret Power,	Secret Power - NORMAL		20	70	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Self-Destruct,	Self-Destruct - NORMAL		5	200	100	The user attacks everything around it by causing an explosion. The user faints upon using this move.
+Sharpen,	Sharpen - NORMAL		30	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Shell Smash,	Shell Smash - NORMAL		15	--	101	The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.
+Simple Beam,	Simple Beam - NORMAL		15	--	100	The user's mysterious psychic wave changes the target's Ability to Simple.
+Sing,	Sing - NORMAL		15	--	55	A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.
+Sketch,	Sketch - NORMAL		1	--	101	It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.
+Skull Bash,	Skull Bash - NORMAL		10	130	100	The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.
+Slack Off,	Slack Off - NORMAL		10	--	101	The user slacks off, restoring its own HP by up to half of its max HP.
+Slam,	Slam - NORMAL		20	80	75	The target is slammed with a long tail, vines, or the like to inflict damage.
+Slash,	Slash - NORMAL		20	70	100	The target is attacked with a slash of claws or blades. Critical hits land more easily.
+Sleep Talk,	Sleep Talk - NORMAL		10	--	101	While it is asleep, the user randomly uses one of the moves it knows.
+Smelling Salts,	Smelling Salts - NORMAL		10	70	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Smokescreen,	Smokescreen - NORMAL		20	--	100	The user releases an obscuring cloud of smoke or ink. This lowers the target's accuracy.
+Snore,	Snore - NORMAL		15	50	100	This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.
+Soft-Boiled,	Soft-Boiled - NORMAL		10	--	101	The user restores its own HP by up to half of its max HP.
+Sonic Boom,	Sonic Boom - NORMAL		20	--	90	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Spike Cannon,	Spike Cannon - NORMAL		15	20	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Spit Up,	Spit Up - NORMAL		10	--	100	The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power.
+Splash,	Splash - NORMAL		40	--	101	The user just flops and splashes around to no effect at all...
+Spotlight,	Spotlight - NORMAL		15	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Stockpile,	Stockpile - NORMAL		20	--	101	The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.
+Stomp,	Stomp - NORMAL		20	65	100	The target is stomped with a big foot. This may also make the target flinch.
+Strength,	Strength - NORMAL		15	80	100	The target is slugged with a punch thrown at maximum power.
+Struggle,	Struggle - NORMAL		1	50	101	This attack is used in desperation only if the user has no PP. It also damages the user a little.
+Stuff Cheeks,	Stuff Cheeks - NORMAL		10	--	101	The user eats its held Berry, then sharply raises its Defense stat.
+Substitute,	Substitute - NORMAL		10	--	101	The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy.
+Super Fang,	Super Fang - NORMAL		10	--	90	The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half.
+Supersonic,	Supersonic - NORMAL		20	--	55	The user generates odd sound waves from its body that confuse the target.
+Swagger,	Swagger - NORMAL		15	--	85	The user enrages and confuses the target. However, this also sharply raises the target's Attack stat.
+Swallow,	Swallow - NORMAL		10	--	101	The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.
+Sweet Scent,	Sweet Scent - NORMAL		20	--	100	A sweet scent that harshly lowers opposing Pokémon's evasiveness.
+Swift,	Swift - NORMAL		20	60	101	Star-shaped rays are shot at opposing Pokémon. This attack never misses.
+Swords Dance,	Swords Dance - NORMAL		20	--	101	A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.
+Tackle,	Tackle - NORMAL		35	40	100	A physical attack in which the user charges and slams into the target with its whole body.
+Tail Slap,	Tail Slap - NORMAL		10	25	85	The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.
+Tail Whip,	Tail Whip - NORMAL		30	--	100	The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stats.
+Take Down,	Take Down - NORMAL		20	90	85	A reckless, full-body charge attack for slamming into the target. This also damages the user a little.
+Tearful Look,	Tearful Look - NORMAL		20	--	101	The user gets teary eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats.
+Teatime,	Teatime - NORMAL		10	--	101	The user has teatime with all the Pokémon in the battle. Each Pokémon eats its held Berry.
+Techno Blast,	Techno Blast - NORMAL		5	120	100	The user fires a beam of light at its target. The move's type changes depending on the Drive the user holds.
+Teeter Dance,	Teeter Dance - NORMAL		20	--	100	The user performs a wobbly dance that confuses the Pokémon around it.
+Terrain Pulse,	Terrain Pulse - NORMAL		10	50	100	The user utilizes the power of the terrain to attack. This move's type and power changes depending on the terrain when it's used.
+Thrash,	Thrash - NORMAL		10	120	100	The user rampages and attacks for two to three turns. The user then becomes confused.
+Tickle,	Tickle - NORMAL		20	--	100	The user tickles the target into laughing, reducing its Attack and Defense stats.
+Transform,	Transform - NORMAL		10	--	101	The user transforms into a copy of the target right down to having the same move set.
+Tri Attack,	Tri Attack - NORMAL		10	80	100	The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.
+Uproar,	Uproar - NORMAL		10	90	100	The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.
+Vise Grip,	Vise Grip - NORMAL		30	55	100	The target is gripped and squeezed from both sides to inflict damage.
+Weather Ball,	Weather Ball - NORMAL		10	50	100	This attack move varies in power and type depending on the weather.
+Whirlwind,	Whirlwind - NORMAL		20	--	101	The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+Wish,	Wish - NORMAL		10	--	101	One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP.
+Work Up,	Work Up - NORMAL		30	--	101	The user is roused, and its Attack and Sp. Atk stats increase.
+Wrap,	Wrap - NORMAL		20	15	90	A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.
+Yawn,	Yawn - NORMAL		10	--	101	The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
+,
+Acid,		Acid - POISON		30	40	100	Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.
+Acid Armor,	Acid Armor - POISON		20	--	101	The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
+Acid Downpour,	Acid Downpour - POISON		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Acid Downpour,	Acid Downpour - POISON		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Acid Spray,	Acid Spray - POISON		20	40	100	The user spits fluid that works to melt the target. This harshly lowers the target's Sp. Def stat.
+Baneful Bunker,	Baneful Bunker - POISON		10	--	101	In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.
+Belch,		Belch - POISON		10	120	90	The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
+Clear Smog,	Clear Smog - POISON		15	50	101	The user attacks the target by throwing a clump of special mud. All stat changes are returned to normal.
+Coil,		Coil - POISON		20	--	101	The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.
+Corrosive Gas,	Corrosive Gas - POISON		40	--	100	The user surrounds everything around it with highly acidic gas and melts away items they hold.
+Cross Poison,	Cross Poison - POISON		20	70	100	A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.
+G-Max Malodor,	G-Max Malodor - POISON		10	--	101	A Poison-type attack that Gigantamax Garbodor use. This move poisons opponents.
+Gastro Acid,	Gastro Acid - POISON		10	--	100	The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability.
+Gunk Shot,	Gunk Shot - POISON		5	120	80	The user shoots filthy garbage at the target to attack. This may also poison the target.
+Max Ooze,	Max Ooze - POISON		10	--	101	This is a Poison-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Atk stats.
+Poison Fang,	Poison Fang - POISON		15	50	100	The user bites the target with toxic fangs. This may also leave the target badly poisoned.
+Poison Gas,	Poison Gas - POISON		40	--	90	A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those it hits.
+Poison Jab,	Poison Jab - POISON		20	80	100	The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target.
+Poison Powder,	Poison Powder - POISON		35	--	75	The user scatters a cloud of poisonous dust that poisons the target.
+Poison Sting,	Poison Sting - POISON		35	15	100	The user stabs the target with a poisonous stinger. This may also poison the target.
+Poison Tail,	Poison Tail - POISON		25	50	100	The user hits the target with its tail. This may also poison the target. Critical hits land more easily.
+Purify,		Purify - POISON		20	--	101	The user heals the target's status condition. If the move succeeds, it also restores the user's own HP.
+Shell Side Arm,	Shell Side Arm - POISON		10	90	100	This move inflicts physical or special damage, whichever will be more effective. This may also poison the target.
+Sludge,		Sludge - POISON		20	65	100	Unsanitary sludge is hurled at the target. This may also poison the target.
+Sludge Bomb,	Sludge Bomb - POISON		10	90	100	Unsanitary sludge is hurled at the target. This may also poison the target.
+Sludge Wave,	Sludge Wave - POISON		10	95	100	The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.
+Smog,	Smog - POISON		20	30	70	The target is attacked with a discharge of filthy gases. This may also poison the target.
+Toxic,	Toxic - POISON		10	--	90	A move that leaves the target badly poisoned. Its poison damage worsens every turn.
+Toxic Spikes,	Toxic Spikes - POISON		20	--	101	The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.
+Toxic Thread,	Toxic Thread - POISON		20	--	100	The user shoots poisonous threads to poison the target and lower the target's Speed stat.
+Venom Drench,	Venom Drench - POISON		20	--	100	Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.
+Venoshock,	Venoshock - POISON		10	65	100	The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned.
+,
+Agility,	Agility - PSYCHIC		30	--	101	The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.
+Ally Switch,	Ally Switch - PSYCHIC		15	--	101	The user teleports using a strange power and switches places with one of its allies.
+Amnesia,	Amnesia - PSYCHIC		20	--	101	The user temporarily empties its mind to forget its concerns. This sharply raises the user's Sp. Def stat.
+Barrier,	Barrier - PSYCHIC		20	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Calm Mind,	Calm Mind - PSYCHIC		20	--	101	The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.
+Confusion,	Confusion - PSYCHIC		25	50	100	The target is hit by a weak telekinetic force. This may also confuse the target.
+Cosmic Power,	Cosmic Power - PSYCHIC		20	--	101	The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.
+Dream Eater,	Dream Eater - PSYCHIC		15	100	100	The user eats the dreams of a sleeping target. The user's HP is restored by half the damage taken by the target.
+Eerie Spell,	Eerie Spell - PSYCHIC		5	80	100	The user attacks with its tremendous psychic power. This also removes 3 PP from the target's last move.
+Expanding Force,	Expanding Force - PSYCHIC		10	80	100	The user attacks the target with its psychic power. This move's power goes up and damages all opposing Pokémon on Psychic Terrain.
+Extrasensory,	Extrasensory - PSYCHIC		20	80	100	The user attacks with an odd, unseeable power. This may also make the target flinch.
+Freezing Glare,	Freezing Glare - PSYCHIC		10	90	100	The user shoots its psychic power from its eyes to attack. This may also leave the target frozen.
+Futuresight,	Future Sight - PSYCHIC		10	120	100	Two turns after this move is used, a hunk of psychic energy attacks the target.
+G-Max Gravitas,	G-Max Gravitas - PSYCHIC		10	--	101	A Psychic-type attack that Gigantamax Orbeetle use. This move changes gravity for five turns.
+Genesis Supernova,	Genesis Supernova - PSYCHIC		1	185	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Glitzy Glow,	Glitzy Glow - PSYCHIC		15	80	95	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Gravity,	Gravity - PSYCHIC		5	--	101	This move enables Flying-type Pokémon or Pokémon with the Levitate Ability to be hit by Ground-type moves. Moves that involve flying can't be used.
+Guard Split,	Guard Split - PSYCHIC		10	--	101	The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.
+Guard Swap,	Guard Swap - PSYCHIC		10	--	101	The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.
+Heal Block,	Heal Block - PSYCHIC		15	--	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Heal Pulse,	Heal Pulse - PSYCHIC		10	--	101	The user emits a healing pulse that restores the target's HP by up to half of its max HP.
+Healing Wish,	Healing Wish - PSYCHIC		10	--	101	The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.
+Heart Stamp,	Heart Stamp - PSYCHIC		25	60	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Heart Swap,	Heart Swap - PSYCHIC		10	--	101	The user employs its psychic power to switch stat changes with the target.
+Hyperspace Hole,	Hyperspace Hole - PSYCHIC		5	80	101	Using a hyperspace hole, the user appears right next to the target and strikes. This also hits a target using a move such as Protect or Detect.
+Hypnosis,	Hypnosis - PSYCHIC		20	--	60	The user employs hypnotic suggestion to make the target fall into a deep sleep.
+Imprison,	Imprison - PSYCHIC		10	--	101	If opposing Pokémon know any move also known by the user, they are prevented from using it.
+Instruct,	Instruct - PSYCHIC		15	--	101	The user instructs the target to use the target's last move again.
+Kinesis,	Kinesis - PSYCHIC		15	--	80	The user distracts the target by bending a spoon. This lowers the target\â€™s accuracy.
+Light Screen,	Light Screen - PSYCHIC		30	--	101	A wondrous wall of light is put up to reduce damage from special attacks for five turns.
+Light That Burns the Sky,	Light That Burns the Sky - PSYCHIC		1	200	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Lunar Dance,	Lunar Dance - PSYCHIC		10	--	101	The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.
+Luster Purge,	Luster Purge - PSYCHIC		5	70	100	The user lets loose a damaging burst of light. This may also lower the target's Sp. Def stat.
+Magic Coat,	Magic Coat - PSYCHIC		15	--	101	Moves like Leech Seed and moves that inflict status conditions are blocked by a barrier and reflected back to the user of those moves.
+Magic Powder,	Magic Powder - PSYCHIC		20	--	100	The user scatters a cloud of magic powder that changes the target to Psychic type.
+Magic Room,	Magic Room - PSYCHIC		10	--	101	The user creates a bizarre area in which Pokémon's held items lose their effects for five turns.
+Max Mindstorm,	Max Mindstorm - PSYCHIC		10	--	101	This is a Psychic-type attack Dynamax Pokémon use. The user turns the ground into Psychic Terrain for five turns.
+Meditate,	Meditate - PSYCHIC		40	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Miracle Eye,	Miracle Eye - PSYCHIC		40	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Mirror Coat.	Mirror Coat - PSYCHIC		20	--	100	A retaliation move that counters any special attack, inflicting double the damage taken.
+Mist Ball,	Mist Ball - PSYCHIC		5	70	100	A mist-like flurry of down envelops and damages the target. This may also lower the target's Sp. Atk stat.
+Photon Geyser,	Photon Geyser - PSYCHIC		5	100	100	The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user.
+Power Split,	Power Split - PSYCHIC		10	--	101	The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.
+Power Swap,	Power Swap - PSYCHIC		10	--	101	The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target.
+Power Trick,	Power Trick - PSYCHIC		10	--	101	The user employs its psychic power to switch its Attack stat with its Defense stat.
+Prismatic Laser,	Prismatic Laser - PSYCHIC		10	160	100	The user shoots powerful lasers using the power of a prism. The user can't move on the next turn.
+Psybeam,	Psybeam - PSYCHIC		20	65	100	The target is attacked with a peculiar ray. This may also leave the target confused.
+Psychic,	Psychic - PSYCHIC		10	90	100	The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat.
+Psychic Fangs,	Psychic Fangs - PSYCHIC		10	85	100	The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.
+Psychic Terrain,	Psychic Terrain - PSYCHIC		10	--	101	This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.
+Psycho Boost,	Psycho Boost - PSYCHIC		5	140	90	The user attacks the target at full power. The attack's recoil harshly lowers the user's Sp. Atk stat.
+Psycho Cut,	Psycho Cut - PSYCHIC		20	70	100	The user tears at the target with blades formed by psychic power. Critical hits land more easily.
+Psycho Shift,	Psycho Shift - PSYCHIC		10	--	100	Using its psychic power of suggestion, the user transfers its status conditions to the target.
+Psyshock,	Psyshock - PSYCHIC		10	80	100	The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+Psystrike,	Psystrike - PSYCHIC		10	100	100	The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+Psywave,	Psywave - PSYCHIC		15	--	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Reflect,	Reflect - PSYCHIC		20	--	101	A wondrous wall of light is put up to reduce damage from physical attacks for five turns.
+Rest,	Rest - PSYCHIC		10	--	101	The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.
+Role Play,	Role Play - PSYCHIC		10	--	101	The user mimics the target completely, copying the target's Ability.
+Shattered Psyche,	Shattered Psyche - PSYCHIC		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Shattered Psyche,	Shattered Psyche - PSYCHIC		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Skill Swap,	Skill Swap - PSYCHIC		10	--	101	The user employs its psychic power to exchange Abilities with the target.
+Speed Swap,	Speed Swap - PSYCHIC		10	--	101	The user exchanges Speed stats with the target.
+Stored Power,	Stored Power - PSYCHIC		10	20	100	The user attacks the target with stored power. The more the user's stats are raised, the greater the move's power.
+Synchronoise,	Synchronoise - PSYCHIC		10	120	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Telekinesis,	Telekinesis - PSYCHIC		15	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Teleport,	Teleport - PSYCHIC		20	--	101	The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees.
+Trick,	Trick - PSYCHIC		10	--	100	The user catches the target off guard and swaps its held item with its own.
+Trick Room,	Trick Room - PSYCHIC		5	--	101	The user creates a bizarre area in which slower Pokémon get to move first for five turns.
+Wonder Room,	Wonder Room - PSYCHIC		10	--	101	The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns.
+Zen Headbutt,	Zen Headbutt - PSYCHIC		15	80	90	The user focuses its willpower to its head and attacks the target. This may also make the target flinch.
+,
+Accelerock,	Accelerock - ROCK		20	40	100	The user smashes into the target at high speed. This move always goes first.
+Ancient Power,	Ancient Power - ROCK		5	60	100	The user attacks with a prehistoric power. This may also raise all the user's stats at once.
+Continental Crush,	Continental Crush - ROCK		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Continental Crush,	Continental Crush - ROCK		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Diamond Storm,	Diamond Storm - ROCK		5	100	95	The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply raise the user's Defense stat.
+G-Max Volcalith,	G-Max Volcalith - ROCK		10	--	101	A Rock-type attack that Gigantamax Coalossal use. This move continues to deal damage to opponents for four turns.
+Head Smash,	Head Smash - ROCK		5	150	80	The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.
+Max Rockfall,	Max Rockfall - ROCK		10	--	101	This is a Rock-type attack Dynamax Pokémon use. The user summons a sandstorm lasting five turns.
+Meteor Beam,	Meteor Beam - ROCK		10	120	90	In this two-turn attack, the user gathers space power and boosts its Sp. Atk stat, then attacks the target on the next turn.
+Power Gem,	Power Gem - ROCK		20	80	100	The user attacks with a ray of light that sparkles as if it were made of gemstones.
+Rock Blast,	Rock Blast - ROCK		10	25	90	The user hurls hard rocks at the target. Two to five rocks are launched in a row.
+Rock Polish,	Rock Polish - ROCK		20	--	101	The user polishes its body to reduce drag. This sharply raises the Speed stat.
+Rock Slide,	Rock Slide - ROCK		10	75	90	Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.
+Rock Throw,	Rock Throw - ROCK		15	50	90	The user picks up and throws a small rock at the target to attack.
+Rock Tomb,	Rock Tomb - ROCK		15	60	95	Boulders are hurled at the target. This also lowers the target's Speed stat by preventing its movement.
+Rock Wrecker,	Rock Wrecker - ROCK		5	150	90	The user launches a huge boulder at the target to attack. The user can't move on the next turn.
+Rollout,	Rollout - ROCK		20	30	90	The user continually rolls into the target over five turns. It becomes more powerful each time it hits.
+Sandstorm,	Sandstorm - ROCK		10	--	101	A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.
+Smack Down,	Smack Down - ROCK		15	50	100	The user throws a stone or similar projectile to attack the target. A flying Pokémon will fall to the ground when it's hit.
+Splintered Stormshards,	Splintered Stormshards - ROCK		1	190	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Stealth Rock,	Stealth Rock - ROCK		20	--	101	The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.
+Stone Edge,	Stone Edge - ROCK		5	100	80	The user stabs the target from below with sharpened stones. Critical hits land more easily.
+Tar Shot,	Tar Shot - ROCK		15	--	100	The user pours sticky tar over the target, lowering the target's Speed stat. The target becomes weaker to Fire-type moves.
+Wide Guard,	Wide Guard - ROCK		10	--	101	The user and its allies are protected from wide-ranging attacks for one turn.
+,
+Anchor Shot,	Anchor Shot - STEEL		20	80	100	The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.
+Autotomize,	Autotomize - STEEL		15	--	101	The user sheds part of its body to make itself lighter and sharply raise its Speed stat.
+Behemoth Bash,	Behemoth Bash - STEEL		5	100	100	The user becomes a gigantic shield and slams into the target. This move deals twice the damage if the target is Dynamaxed.
+Behemoth Blade,	Behemoth Blade - STEEL		5	100	100	The user becomes a gigantic sword and cuts the target. This move deals twice the damage if the target is Dynamaxed.
+Bullet Punch,	Bullet Punch - STEEL		30	40	100	The user strikes the target with tough punches as fast as bullets. This move always goes first.
+Corkscrew Crash,	Corkscrew Crash - STEEL		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Corkscrew Crash,	Corkscrew Crash - STEEL		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Doom Desire,	Doom Desire - STEEL		5	140	100	Two turns after this move is used, a concentrated bundle of light blasts the target.
+Double Iron Bash,	Double Iron Bash - STEEL		5	60	100	The user rotates, centering the hex nut in its chest, and then strikes with its arms twice in a row. This may also make the target flinch.
+Flash Cannon,	Flash Cannon - STEEL		10	80	100	The user gathers all its light energy and releases it all at once. This may also lower the target's Sp. Def stat.
+G-Max Meltdown,,	G-Max Meltdown - STEEL		10	--	101	A Steel-type attack that Gigantamax Melmetal use. This move makes opponents incapable of using the same move twice in a row.
+G-Max Steelsurge,	G-Max Steelsurge - STEEL		10	--	101	A Steel-type attack that Gigantamax Copperajah use. This move scatters sharp spikes around the field.
+Gear Grind,	Gear Grind - STEEL		15	50	85	The user attacks by throwing steel gears at its target twice.
+Gear Up,	Gear Up - STEEL		20	--	101	The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.
+Gyro Ball,	Gyro Ball - STEEL		5	--	100	The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move's power.
+Heavy Slam,	Heavy Slam - STEEL		10	--	100	The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power.
+Iron Defense,	Iron Defense - STEEL		15	--	101	The user hardens its body's surface like iron, sharply raising its Defense stat.
+Iron Head,	Iron Head - STEEL		15	80	100	The user slams the target with its steel-hard head. This may also make the target flinch.
+Iron Tail,	Iron Tail - STEEL		15	100	75	The target is slammed with a steel-hard tail. This may also lower the target's Defense stat.
+King's Shield,	King's Shield - STEEL		10	--	101	The user takes a defensive stance while it protects itself from damage. It also lowers the Attack stat of any attacker that makes direct contact.
+Magnet Bomb,	Magnet Bomb - STEEL		20	60	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Max Steelspike,	Max Steelspike - STEEL		10	--	101	This is a Steel-type attack Dynamax Pokémon use. This raises ally Pokémon's Defense stats.
+Metal Burst,	Metal Burst - STEEL		10	--	100	The user retaliates with much greater force against the opponent that last inflicted damage on it.
+Metal Claw,	Metal Claw - STEEL		35	50	95	The target is raked with steel claws. This may also raise the user's Attack stat.
+Metal Sound,	Metal Sound - STEEL		40	--	85	A horrible sound like scraping metal harshly lowers the target's Sp. Def stat.
+Meteor Mash,	Meteor Mash - STEEL		10	90	90	The target is hit with a hard punch fired like a meteor. This may also raise the user's Attack stat.
+Mirror Shot,	Mirror Shot - STEEL		10	65	85	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Searing Sunraze Smash,	Searing Sunraze Smash - STEEL		1	200	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Shift Gear,	Shift Gear - STEEL		10	--	101	The user rotates its gears, raising its Attack stat and sharply raising its Speed stat.
+Smart Strike,	Smart Strike - STEEL		10	70	101	The user stabs the target with a sharp horn. This attack never misses.
+Steel Beam,	Steel Beam - STEEL		5	140	95	The user fires a beam of steel that it collected from its entire body. This also damages the user.
+Steel Roller,	Steel Roller - STEEL		5	130	100	The user attacks while destroying the terrain. This move fails when the ground hasn't turned into a terrain.
+Steel Wing,	Steel Wing - STEEL		25	70	90	The target is hit with wings of steel. This may also raise the user's Defense stat.
+Sunsteel Strike,	Sunsteel Strike - STEEL		5	100	100	The user slams into the target with the force of a meteor. This move can be used on the target regardless of its Abilities.
+,
+Aqua Jet,	Aqua Jet - WATER		20	40	100	The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+Aqua Ring,	Aqua Ring - WATER		20	--	101	The user envelops itself in a veil made of water. It regains some HP every turn.
+Aqua Tail,	Aqua Tail - WATER		10	90	90	The user attacks by swinging its tail as if it were a vicious wave in a raging storm.
+Bouncy Bubble,	Bouncy Bubble - WATER		20	60	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Brine,		Brine - WATER		10	65	100	If the target's HP is half or less, this attack will hit with double the power.
+Bubble,		Bubble - WATER		30	40	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Bubble Beam,	Bubble Beam - WATER		20	65	100	A spray of bubbles is forcefully ejected at the target. This may also lower the target's Speed stat.
+Clamp,	Clamp - WATER		15	35	85	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Crabhammer,	Crabhammer - WATER		10	100	90	The target is hammered with a large pincer. Critical hits land more easily.
+Dive,	Dive - WATER		10	80	100	Diving on the first turn, the user floats up and attacks on the next turn.
+Fishious Rend,	Fishious Rend - WATER		10	85	100	The user rends the target with its hard gills. If the user attacks before the target, the power of this move is doubled.
+Flip Turn,	Flip Turn - WATER		20	60	100	After making its attack, the user rushes back to switch places with a party Pokémon in waiting.
+G-Max Cannonade,	G-Max Cannonade - WATER		10	--	101	A Water-type attack that Gigantamax Blastoise use. This move continues to deal damage to opponents for four turns.
+G-Max Foam Burst,	G-Max Foam Burst - WATER		10	--	101	A Water-type attack that Gigantamax Kingler use. This move harshly lowers the Speed of opponents.
+G-Max Hydrosnipe,	G-Max Hydrosnipe - WATER		10	--	101	A Water-type attack that Gigantamax Inteleon use. This move can be used on the target regardless of its Abilities.
+G-Max Rapid Flow,	G-Max Rapid Flow - WATER		10	--	101	A Water-type attack that Gigantamax Urshifu use. This rapid-strike move can ignore Max Guard.
+G-Max Stonesurge,	G-Max Stonesurge - WATER		10	--	101	A Water-type attack that Gigantamax Drednaw use. This move scatters sharp rocks around the field.
+Hydro Cannon,	Hydro Cannon - WATER		5	150	90	The target is hit with a watery blast. The user can't move on the next turn.
+Hydro Pump,	Hydro Pump - WATER		5	110	80	The target is blasted by a huge volume of water launched under great pressure.
+Hydro Vortex,	Hydro Vortex - WATER		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Hydro Vortex,	Hydro Vortex - WATER		1	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Life Dew,	Life Dew - WATER		10	--	101	The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle.
+Liquidation,	Liquidation - WATER		10	85	100	The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.
+Max Geyser,	Max Geyser - WATER		10	--	101	This is a Water-type attack Dynamax Pokémon use. The user summons a heavy rain that falls for five turns.
+Muddy Water,	Muddy Water - WATER		10	90	85	The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy.
+Oceanic Operetta,	Oceanic Operetta - WATER		1	195	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Octazooka,	Octazooka - WATER		10	65	85	The user attacks by spraying ink in the target's face or eyes. This may also lower the target's accuracy.
+Origin Pulse,	Origin Pulse - WATER		10	110	85	The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.
+Rain Dance,	Rain Dance - WATER		5	--	101	The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.
+Razor Shell,	Razor Shell - WATER		10	75	95	The user cuts its target with sharp shells. This may also lower the target's Defense stat.
+Scald,	Scald - WATER		15	80	100	The user shoots boiling hot water at its target. This may also leave the target with a burn.
+Snipe Shot,	Snipe Shot - WATER		15	80	100	The user ignores the effects of opposing Pokémon's moves and Abilities that draw in moves, allowing this move to hit the chosen target.
+Soak,	Soak - WATER		20	--	100	The user shoots a torrent of water at the target and changes the target's type to Water.
+Sparkling Aria,	Sparkling Aria - WATER		10	90	100	The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be healed by the touch of these bubbles.
+Splishy Splash,	Splishy Splash - WATER		15	90	100	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Steam Eruption,	Steam Eruption - WATER		5	110	95	The user immerses the target in superheated steam. This may also leave the target with a burn.
+Surf,	Surf - WATER		15	90	100	The user attacks everything around it by swamping its surroundings with a giant wave.
+Surging Strikes,	Surging Strikes - WATER		5	25	100	The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This attack always results in a critical hit.
+Water Gun,	Water Gun - WATER		25	40	100	The target is blasted with a forceful shot of water.
+Water Pledge,	Water Pledge - WATER		10	80	100	A column of water hits the target. When used with its fire equivalent, its power increases and a rainbow appears.
+Water Pulse,	Water Pulse - WATER		20	60	100	The user attacks the target with a pulsing blast of water. This may also confuse the target.
+Water Shuriken,	Water Shuriken - WATER		20	15	100	The user hits the target with throwing stars two to five times in a row. This move always goes first.
+Water Sport,	Water Sport - WATER		15	--	101	This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.
+Water Spout,	Water Spout - WATER		5	150	100	The user spouts water to damage opposing Pokémon. The lower the user's HP, the lower the move's power.
+Waterfall,	Waterfall - WATER		15	80	100	The user charges at the target and may make it flinch.
+Whirlpool,	Whirlpool - WATER		15	35	85	The user traps the target in a violent swirling whirlpool for four to five turns.
+Withdraw,	Withdraw - WATER		40	--	101	The user withdraws its body into its hard shell, raising its Defense stat.
+,

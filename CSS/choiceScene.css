@@ -1,0 +1,27 @@
+.class 
+{
+	background-color: red;
+	border-color: red;
+	-fx-background-color: red;
+	-fx-text-fill: white;
+	-fx-border-color: purple;
+}
+#fireAttack
+{
+	background-color: rgba(0, 255, 213, 0.199);
+	border-color: red;
+	/*-fx-background-color: rgba(216, 63, 135, 0.993);*/
+	-fx-background-color: "D83F87"; 
+	-fx-border-color:rgba(2, 1, 1, 0.336); 
+}
+#choiceLayout
+{
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	-fx-background-color: rgb(70, 51, 145);
+  	-fx-background-repeat: no-repeat;
+	-fx-background-attachment: scroll;
+	-fx-background-size: 100% 100%;  
+
+}

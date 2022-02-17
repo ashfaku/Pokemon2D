@@ -1,0 +1,10 @@
+#initialLayout
+{
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+	-fx-background-color: rgb(67, 145, 51);
+  	-fx-background-repeat: no-repeat;
+	-fx-background-attachment: scroll;
+	-fx-background-size: 100% 100%;  
+}
